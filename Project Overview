@@ -1,0 +1,22 @@
+This project is a file-based bank account management system developed using the C programming language. It demonstrates the use of random-access files, allowing efficient storage, retrieval, and modification of account records.
+The system simulates basic banking operations such as creating accounts, updating balances, deleting records, searching accounts, and exporting data to a readable format.
+
+Concepts Used:
+1.Structures (struct)
+2.File handling in C
+3.Random access files
+4.Binary file operations
+5.String handling (strcmp)
+6.Menu-driven programming
+
+Technologies:
+    1.Language: C
+    2.Compiler: GCC / Turbo C / Any standard C compiler
+    3.File System: Binary file (credit.dat)
+
+Learning Outcome
+This project helps in understanding:
+
+     1.How real-world banking systems manage data
+     2.Efficient file handling techniques in C
+     3.Implementation of CRUD operations using binary files
